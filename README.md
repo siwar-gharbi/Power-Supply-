@@ -1,6 +1,6 @@
 # Power-Supply-
 
-In this project, I designed a Power Supply Module utilizing KiCad. 
+In this project, I designed a Power Supply Module using KiCad. 
 
 
 ![Capture d'écran 2024-05-25 193646-fotor-bg-remover-20240525193728](https://github.com/siwar-gharbi/Power-Supply-/assets/109144779/726ea225-68b2-40b2-bb72-b4d255ae3b8c)
